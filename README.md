@@ -1,3 +1,4 @@
+<img width="1236" height="843" alt="Screenshot 2026-03-25 210701" src="https://github.com/user-attachments/assets/39f113b7-8d4b-4c91-8a66-4d8c38e8838b" />
 # Business KPI Dashboard
 
 A desktop GUI app for loading CSV files, selecting key business columns, and generating KPI summaries such as total records, total value, average value, and category breakdowns.
